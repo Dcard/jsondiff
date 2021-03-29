@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/wI2L/jsondiff"
+	"github.com/Dcard/jsondiff"
 	corev1 "k8s.io/api/core/v1"
 )
 
